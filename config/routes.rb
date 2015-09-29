@@ -10,6 +10,9 @@ Rails.application.routes.draw do
   end
   root 'welcome#index'
 
+
+  
+
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 
